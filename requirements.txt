@@ -1,0 +1,6 @@
+opencv-contrib-python
+numpy
+Pillow
+xlwt
+xlrd==1.2.0
+playsound==1.2.2
